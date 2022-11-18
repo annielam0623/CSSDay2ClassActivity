@@ -1,0 +1,25 @@
+body{
+    background-color: lightyellow;
+}
+h1{
+    color:rgb(76, 112, 100)
+}
+img{
+    display: block;
+    margin: auto;
+}
+span{
+    display: inline-block;
+}
+ul {
+    margin: 2em;
+}
+p {
+    margin: 2em;
+}
+h3{
+    margin: 2em;
+}
+ol {
+    margin: 2em;
+}
